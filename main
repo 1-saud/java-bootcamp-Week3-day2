@@ -1,0 +1,12 @@
+void main() {
+
+    // واجب يوم الاثنين الاسبوع الثالث  10-27-2025
+    Shape s1 = new Shape("red" , true);
+    Circle c1 = new Circle(3.3 , "blue" , false);
+    Rectangle r1 = new Rectangle(2.2 , 5.5);
+
+    System.out.println(s1.toString());
+    System.out.println(c1.toString());
+    System.out.println(r1.toString());
+
+}
